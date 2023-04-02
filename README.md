@@ -6,7 +6,7 @@
 
 **Open Terminal and type following command to install necessary libraries of flask**
 
-pip
+pip install -r requirements.txt
 
 **Open Terminal in and switch to downloaded directory**
 
@@ -16,6 +16,8 @@ python REST_api.py
 
 *API will be started at http://127.0.0.1:5000 (IP adress may be change according to your PC)*
 
+## For Running Terminal Command
+
 **Open Browser and typ URL http://127.0.0.1:5000 and press enter. Home page will be displayed**
 
 *Type URL /comand_text/<Terminal Command> as given below*
@@ -24,7 +26,7 @@ http://127.0.0.1:5000/comand_text/touch creatNewFile.txt
 
 *as Output You will see new file created in your downloaded directory*
 
-##For downloading File from server
+## For downloading File from server
 
 **Open Browser and typ URL http://127.0.0.1:5000 and press enter. Home page will be displayed**
 
