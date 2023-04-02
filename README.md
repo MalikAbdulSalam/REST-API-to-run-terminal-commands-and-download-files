@@ -20,7 +20,7 @@
 
 **Open Browser and typ URL http://127.0.0.1:5000 and press enter. Home page will be displayed**
 
-*Type URL /comand_text/<Terminal Command> as given below*
+*Type URL http://127.0.0.1:5000/comand_text/<Write Terminal Command here> as given below*
 
 `http://127.0.0.1:5000/comand_text/touch creatNewFile.txt`
 
